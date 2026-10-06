@@ -113,8 +113,8 @@ int main(void)
   while (1)
   {
 
-	  printf("BASHA VENU \n");
-	  printf("2305001005 \n");
+	  printf("NAME:BASHA VENU \n");
+	  printf("REG NO:2305001005 \n");
 	  HAL_Delay(5000);
 
   }
